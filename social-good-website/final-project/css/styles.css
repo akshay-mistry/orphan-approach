@@ -1,0 +1,74 @@
+body
+{
+	margin-bottom: 80px;
+	background-color: lightblue;
+	background-image: url("/Users/aadikatyal/Desktop/Hackathon\ Oct19/Social\ Goods\ Website/final-project/empty-logo.png");
+	color: black;
+	font-family: futura;
+}
+
+.page-header
+{
+	margin-top: 0;
+}
+
+.src
+{
+	width: full;
+}
+.jumbotron
+{
+	background: lightgray;
+	background-color: none;
+	opacity: 0.93;
+}
+
+.panel-body
+{
+	padding-top: 0;
+}
+
+.featuredImg
+{
+	margin-bottom: 15px;
+}
+
+.panel-body
+{
+	background-color: #DCDCDC;
+}
+textarea 
+{
+	resize: none;
+}
+
+h4
+{
+	color: white;
+}
+
+h1
+{
+	font-weight: 900;
+	opacity: 0.6;
+	font-family: verdana;
+	color: white;
+}
+
+.dropdown-menu > li > a
+{
+	color: white;
+	background-color: #303030;
+}
+
+.jumbotron
+{
+	background-color: lightgray;
+}
+
+#about-box
+{
+	background-color: lightgray;
+	opacity: 0.8;
+	font-family: futura;
+}
