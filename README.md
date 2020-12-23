@@ -1,1 +1,1 @@
-# orphan-approach
+We here at The Orphan Approach are committed to connecting the unfortunate children of the world with those who want to help. Our website and program allow you to connect and help children around the world in need of a family. After talking to and interacting with the children we are helping we can set up a set schedule for your conversations. By making donations easy and seamless, we allow you to spend more time with our children while helping them simultaneously. Join us in connecting hopes!
